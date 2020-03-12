@@ -1,2 +1,5 @@
 # ChangeGroupSSW
-Script usando Selenium Python para mudança em lotes dos grupos de usuários
+Script usando Selenium Python para realizar a ação de trocar grupos de determinados usuários dentro do Sistema SSW
+
+# Requisitos
+`pip install selenium`
